@@ -11,5 +11,3 @@ argument-hint: [implentation-plan-file]
     - Wait for the user's approval before proceeding
     - Only then make the necessary changes
 - Write code comments only for complex business logic. Skip comments for straightforward, self-explanatory code
-- Implement tests before business logic as specified in the plan
-- Ensure your code matches the specifications in the plan document
